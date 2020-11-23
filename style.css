@@ -1,7 +1,27 @@
-*{
-    background-color: #a599b1;
-}
-.navigation{
+* {}
+
+.navigation {
+    margin-top: 40px;
     text-decoration: none;
-    
+    background-color: #fff;
+}
+
+.container {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.cardd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #b6a8ab;
+}
+
+.carousel {
+    margin-left: 3%;
+
 }
